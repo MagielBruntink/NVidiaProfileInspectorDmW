@@ -102,5 +102,5 @@ Aeon Address (AEON):
 
 ## Common Issues
 
-#### NVAPI_ACCESS_DENIED
+#### NVAPI_ACCESS_DENIED:
 Issue [#9](../../issues/9) | Status: **Solved**.
