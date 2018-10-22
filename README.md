@@ -27,12 +27,12 @@ NVidiaProfileInspectorDmW is a Fork from Orbmu2k/nvidiaProfileInspector for full
 - [Install](#install)
 - [Usage](#usage)
 - [Build](#build)
-- [Common Issues](#common-issues)
 - [Feedback](#feedback)
 - [Maintainers](#maintainers)
 - [Contribute](#contribute)
 - [License](#license)
 - [Donations](#donations)
+- [Common Issues](#common-issues)
 
 ## Features
 Full optimization NVidia graphic cards.
@@ -72,11 +72,6 @@ NVidiaProfileInspectorDMW.exe.config
 Reference.xml
 ```
 
-## Common Issues
-
-#### NVAPI_ACCESS_DENIED
-Issue [#9](../../issues/9) | Status: **Solved**.
-
 ## Feedback
 Please inform me for aditional Improvments. [Open an Issue](../../issues).
 
@@ -104,3 +99,8 @@ Monero Address (XMR):
 
 Aeon Address (AEON):
 * WmssXd9iiPCjjhfVyqYvPzhBuPKkZ5wkVXP5q8L7aYxfPJG5Z8nLyLJXUzxMeuvna9dCEBAmqBzCRWezF6AQqUS51EDJtjAYL
+
+## Common Issues
+
+#### NVAPI_ACCESS_DENIED
+Issue [#9](../../issues/9) | Status: **Solved**.
